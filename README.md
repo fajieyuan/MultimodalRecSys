@@ -33,6 +33,11 @@ year = {2023}
 - [A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions](https://arxiv.org/abs/2302.04473) - Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Zhiqi Shen. **arxiv, Feb 2023**  
 - [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys, Sep 2020**  
 
+## Empirical Study
+- [Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited](https://arxiv.org/pdf/2303.13835.pdf) - Zheng Yuan, Fajie Yuan, Yu Song, etc. **SIGIR, 2023** 
+- [Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights](https://arxiv.org/pdf/2305.15036.pdf) - Ruyu Li, Wenhao Deng, Fajie Yuan etc. **arxiv, May 2023**
+- [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://arxiv.org/pdf/2305.15036.pdf) - Junchen Fu, Fajie Yuan, Yu Song, etc. **arxiv, May 2023** 
+
 
 ## Table of Contents
 - [General](#general)
