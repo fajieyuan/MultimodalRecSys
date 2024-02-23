@@ -115,11 +115,18 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/10.1145/3320435.3320470) - Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič . **UMAP, Jun 2019** | [`[pdf]`](https://www.christophtrattner.com/pubs/UMAP2019.pdf)
 - [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/abs/1806.09820) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv, 2018**  | [`[pdf]`](https://arxiv.org/pdf/1806.09820.pdf)
 - [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org/doi/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017** | [`[pdf]`](http://shuwu.name/sw/DeepStyle.pdf)
+- [Where to Go Next for Recommender Systems? ID- vs.Modality-based Recommender Models Revisited) -Zheng Yuan, Fajie Yuan, Yu Song. **SIGIR, Aug 2023** | [`[pdf]`](https://arxiv.org/pdf/2303.13835.pdf)
+
 
 
 ### Public Datasets (Link verified :heavy_check_mark:)
 - [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
   - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
 - [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
+- [Image recommmendation datasets PixelRec 2023] (https://arxiv.org/pdf/2309.06789.pdf)
+- [Multi-domain multimodal recommmendation datasets NineRec TPAMI2023] (https://arxiv.org/pdf/2309.07705.pdf)
+- [Short video recommmendation datasets MicroLens 2023] (https://arxiv.org/abs/2309.15379)
+- [Video Cover recommmendation datasets 2023] (https://arxiv.org/pdf/2303.13835.pdf)
+
 
 
